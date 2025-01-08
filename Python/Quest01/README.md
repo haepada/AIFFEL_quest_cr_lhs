@@ -22,12 +22,16 @@
     - 프로젝트 평가 기준에 더해 추가적으로 수행한 나만의 시도, 
     실험이 기록되어 있는지 확인
         - 중요! 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부
+        - <img width="524" alt="image" src="https://github.com/user-attachments/assets/3149e2fd-a097-425d-80fe-0f4ef9ae4467" />
+
         
 - [x]  **4. 회고를 잘 작성했나요?**
     - 주어진 문제를 해결하는 완성된 코드 내지 프로젝트 결과물에 대해
     배운점과 아쉬운점, 느낀점 등이 기록되어 있는지 확인
     - 전체 코드 실행 플로우를 그래프로 그려서 이해를 돕고 있는지 확인
         - 중요! 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부
+        - <img width="548" alt="image" src="https://github.com/user-attachments/assets/e1959c60-46c7-4202-bee2-c4aa5a4cbf15" />
+
         
 - [x]  **5. 코드가 간결하고 효율적인가요?**
     - 파이썬 스타일 가이드 (PEP8) 를 준수하였는지 확인
@@ -39,7 +43,11 @@
 ```
 함수 조건을 활용하는 방법을 미처 떠올리지 못했는데
 이 코드를 통해 함수를 활용하는 방식을 배울 수 있었습니다.
+<img width="314" alt="image" src="https://github.com/user-attachments/assets/30f8f432-d4a2-47de-a567-b845cb839cbf" />
 
+
+
+<img width="433" alt="image" src="https://github.com/user-attachments/assets/53af9b76-22ba-439d-8639-362863ac39eb" />
 또한 오류가 발생했던 지점과 배운 점들을 잘 작성해주셔서
 제가 배운 점들과 비교하며 공감할 수도 있었고
 새로운 점들을 배울 수도 있었습니다. 
