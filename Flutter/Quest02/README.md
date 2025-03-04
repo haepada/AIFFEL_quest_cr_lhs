@@ -2,6 +2,9 @@
 - 코더 : 코더의 이름을 작성하세요.
 - 리뷰어 : 리뷰어의 이름을 작성하세요.
 
+[천주호.이혜승 페어프로그래밍전 구조 짜기]
+![image](https://github.com/user-attachments/assets/0a725dc7-9b47-4fee-b996-8bddbc67c5ff)
+
 
 # PRT(Peer Review Template)
 - [ ]  **1. 주어진 문제를 해결하는 완성된 코드가 제출되었나요?**
